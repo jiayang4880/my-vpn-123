@@ -19,7 +19,7 @@
 
 ### ✨ 核心特性
 
-- 🛡️ **协议支持**：支持 VLESS、Trojan、Shadowsocks 等主流协议，深度集成加密传输。
+- 🛡️ **协议支持**：支持 VLESS、Trojan、Shadowsocks 等主流协议，深度集成加密传输。。
 - 📊 **管理面板**：内置可视化后台，支持实时配置修改、日志查看及流量统计。
 - 🛠️ **部署灵活**：完整适配 CF Workers 及 CF Pages (GitHub / 上传)。
 - 🔄 **订阅系统**：内置自动订阅生成及混淆转换，适配主流客户端（Clash, Sing-box, Surge 等）。
